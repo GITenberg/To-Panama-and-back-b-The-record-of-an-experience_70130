@@ -1,0 +1,34 @@
+_repo: To-Panama-and-back-b-The-record-of-an-experience_70130
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byford, Henry T. (Henry Turman)
+    alias: Byford, Henry Turman
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '55615'
+    url: http://www.gutenberg.org/2009/agents/55615
+description: ''
+gutenberg_issued: '2023-02-24'
+identifiers:
+  gutenberg: '70130'
+  lccn: 08010853
+language: en
+pgterms:marc904: https://archive.org/details/topanamabackreco00byfo/page/n3/mode/2up
+pgterms:marc905: 20200929055452byford
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Alan and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bW. B. Conkey Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Panama -- Description and travel'
+- !lcsh 'Pan-American Medical Congress (4th : 1905 : Panama, Panama)'
+- !lcc 'F1561'
+- GITenberg
+title: 'To Panama and back : $b The record of an experience'
+url: http://www.gutenberg.org/ebooks/70130
