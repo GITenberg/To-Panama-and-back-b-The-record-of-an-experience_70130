@@ -1,5 +1,8 @@
 _repo: To-Panama-and-back-b-The-record-of-an-experience_70130
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70130-h/images/cover.jpg
 creator:
   author:
     agent_name: Byford, Henry T. (Henry Turman)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55615'
     url: http://www.gutenberg.org/2009/agents/55615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70130#To-Panama-and-back-b-The-record-of-an-experience
 gutenberg_issued: '2023-02-24'
 identifiers:
   gutenberg: '70130'
